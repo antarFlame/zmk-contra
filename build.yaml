@@ -20,3 +20,4 @@
 include:
   - board: nice_nano//zmk
     shield: contra
+    snippet: studio-rpc-usb-uart
